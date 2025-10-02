@@ -22,7 +22,7 @@
 ##
 
 <div align="center"> 
- <a href="mailto:gabrielcnt96@gmail.com?subject=Contato&body=Olá,%20gostaria%20de%20mais%20informações.""_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://mailto:gabrielcnt96@gmail.com?subject=Contato&body=Olá,%20gostaria%20de%20mais%20informações.""_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-vieira-4bbb01362/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
  
 </div>
